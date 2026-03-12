@@ -8,5 +8,7 @@ public class Person{
    public Person(string firstName, string lastName, int age = 14){
       FirstName = firstName;
       LastName = lastName;
+      Age = age;
    }
 }
+
